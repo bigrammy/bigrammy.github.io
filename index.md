@@ -1,4 +1,6 @@
 ---
+tital: Flaps
+layout: home
 title: Home
 layout: home
 ---
